@@ -1,0 +1,28 @@
+.write
+test
+Reminder: always test your code!
+.end
+.write
+coco
+In order to be irreplaceable one must always be different.
+.end
+.write
+start
+The secret of getting ahead is getting started.
+.end
+.print
+start
+.print
+test
+.print
+coco
+.write
+writer
+A magazine writer named Bing
+Could make copy from most anything;
+But the copy he wrote
+of a ten-dollar note
+Was so good he now lives in Sing Sing.
+.end
+.print
+writer

@@ -1,0 +1,31 @@
+.write
+meter
+A forgetful old gasman named Dieter,
+Who went poking around his gas heater,
+Touched a leak with his light;
+He blew out of sight—
+And, as everyone who knows anything about poetry can tell you, he also ruined the meter.
+.end
+.print
+meter
+.write
+dark
+Outside of a dog, a book is a man's best friend. Inside of a dog it's
+too dark to read.
+.end
+.print
+dark
+.write
+convenient
+An escalator can never break: it can only become stairs. You should
+never see an Escalator Temporarily Out Of Order sign, just Escalator
+Temporarily Stairs. Sorry for the convenience.
+.end
+.print
+convenient
+.write
+wanderer
+Not all those who wander are lost
+.end
+.print
+wanderer
